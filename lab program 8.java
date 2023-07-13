@@ -1,6 +1,4 @@
-package my.food.clgproject;
-
-
+package my.food.finallab;
 
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -87,6 +85,3 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 }
-
-
-
